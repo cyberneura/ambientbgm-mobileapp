@@ -1,0 +1,26 @@
+{
+  "name": "ambientbgm-mobileapp",
+  "version": "1.0.0",
+  "description": "iOS / Android app for AmbientBGM.com (Capacitor wrapper around the web player)",
+  "scripts": {
+    "sync": "cap sync",
+    "open:ios": "cap open ios",
+    "open:android": "cap open android"
+  },
+  "keywords": [],
+  "author": "Cyberneura",
+  "license": "MIT",
+  "packageManager": "pnpm@10.17.1",
+  "devDependencies": {
+    "@capacitor/android": "^8.3.0",
+    "@capacitor/cli": "^8.3.0",
+    "@capacitor/core": "^8.3.0",
+    "@capacitor/ios": "^8.3.0",
+    "@capacitor/status-bar": "^8.0.2"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cyberneura/ambientbgm-mobileapp.git"
+  }
+}
