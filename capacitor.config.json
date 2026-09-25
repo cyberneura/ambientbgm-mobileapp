@@ -1,0 +1,22 @@
+{
+  "appId": "com.ytyng.ambientbgm",
+  "appName": "AmbientBGM",
+  "webDir": "www",
+  "appendUserAgent": "AmbientBGMApp",
+  "server": {
+    "url": "https://ambientbgm.com/",
+    "cleartext": false
+  },
+  "ios": {
+    "allowsLinkPreview": false,
+    "scrollEnabled": false,
+    "backgroundColor": "#09090b"
+  },
+  "plugins": {
+    "StatusBar": {
+      "overlaysWebView": false,
+      "style": "DARK",
+      "backgroundColor": "#09090b"
+    }
+  }
+}
